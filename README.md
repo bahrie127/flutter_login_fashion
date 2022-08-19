@@ -1,16 +1,21 @@
-# flutter_login_fashion
+# Flutter Login Fashion UI
 
-A new Flutter project.
+Layouting the UI for Login Fashion
 
-## Getting Started
+## Video Youtube
 
-This project is a starting point for a Flutter application.
+[![Watch the video](https://img.youtube.com/vi/iL6qPggKKJ8/sddefault.jpg)](https://youtu.be/iL6qPggKKJ8)
 
-A few resources to get you started if this is your first Flutter project:
+https://youtu.be/iL6qPggKKJ8
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## ScreenShot
+
+| Login        |
+|--------------|
+| <img src="img1.png" width="500"/>
+
+
+
